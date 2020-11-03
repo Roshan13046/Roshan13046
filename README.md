@@ -1,5 +1,5 @@
 # Hey 👋, This is Roshan Raut
-### About me 🤓
+### About me:
 - A **4 star CodeChef Competitive Coder**, a Tech enthusiast with a passion to solve problems.
 - Proven skills in **Web** Development, **Android** application development, **Cloud Technology**.
 - I believe that I am a versatile learner and can get going with any sort of work.
