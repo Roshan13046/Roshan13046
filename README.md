@@ -12,4 +12,8 @@
 
 - 🌱 I am currently focused on Project Development.
 
-<a href = https://roshan13046.github.io/RoshanSDEPortfolio/><img src=https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Fpremium%2Fpng-256-thumb%2Fprogrammer-1994390-1682240.png&imgrefurl=https%3A%2F%2Ficonscout.com%2Ficon%2Fprogrammer-1994390&tbnid=yI9zKYPo3TfkeM&vet=12ahUKEwj845f6veXsAhWyBLcAHTk1C64QMyggegUIARCiAg..i&docid=vn9qBDCnA6jmdM&w=256&h=256&itg=1&q=portfolio%20icons&hl=en&ved=2ahUKEwj845f6veXsAhWyBLcAHTk1C64QMyggegUIARCiAg height='30' weight='30'></a> • <a href = https://github.com/https://github.com/Roshan13046><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
+ <a href = https://roshan13046.github.io/RoshanSDEPortfolio><img src=https://drive.google.com/file/d/14Asxny5w-JP494zSGgY8QGjofw9YdxJ5/view?usp=sharing height='30' weight='30'></a>
+ <a href = https://www.linkedin.com/in/roshan-raut-299835180/><img src=https://drive.google.com/file/d/1Nh4zB-vIXt2F9r5zCZZ0Ok7OrxJCFprx/view?usp=sharing height='30' weight='30'></a>
+ <a href = https://github.com/https://github.com/Roshan13046><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
+ 
+
