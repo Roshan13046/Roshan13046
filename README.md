@@ -1,6 +1,7 @@
 # Hey 👋, This is Roshan 👦
 ### About me:
-- A **5⭐  CodeChef Competitive Coder**, a Tech enthusiast with a passion to solve problems.
+- A **5⭐  CodeChef Competitive Coder**, with country Rank 1836 and Global Rank 3132.
+- I am also a Tech enthusiast with a passion to solve problems.
 - Proven skills in **Web** Development, **Android** application development, **Cloud Technology**.
 - I believe that I am a versatile learner and can get going with any sort of work.
 
