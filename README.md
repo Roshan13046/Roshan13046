@@ -7,7 +7,7 @@
 
 **Skills:** Kotlin | Java | Android | Full Stack Web Development 
 
-- 💼 I am a good Problem Solver and with gfg Institute Rank 1 and Global Rank 512 and 1000+ DSA Problem submissions on various platforms.
+- 💼 I am a good Problem Solver and with gfg Institute Rank 1 and Global Rank 512 among 3 Lakh gfg coders and have done 1000+ DSA Problem submissions on various platforms.
 
 - ✍️ I am currently working on Kotlin Android Development and Cloud Technology.
 
