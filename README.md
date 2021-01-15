@@ -22,5 +22,5 @@
 <a href="github.com/Roshan13046">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Roshan13046&show_icons=true&theme=light&line_height=27" alt="roshan's github stats"/>
 </a>
-[![Roshan Prakash Raut's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/roshan13046)
+
 
