@@ -6,7 +6,7 @@
 - Proven skills in **Web** Development, **Android** application development, **Cloud Technology**.
 - I believe that I am a versatile learner and can get going with any sort of work.
 
-**Skills:** Kotlin | Java | Android | Full Stack Web Development 
+**Skills:** Kotlin | Java | Android | Web Development 
 
 - 💼 I am a good Problem Solver and with gfg Institute Rank 1 and Global Rank 512 among 3 Lakh gfg coders and have done 1000+ DSA Problem submissions on various platforms.
 
