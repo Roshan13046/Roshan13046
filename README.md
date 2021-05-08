@@ -4,14 +4,14 @@
 - **Open Source** Contributor at **Girlscript Summer of Code 21**.
 - Geeks for Geeks **Institute Rank 1** and **Global Rank 512** among 3 Lakh Coders.
 - I am a Tech enthusiast with **Problem Solving** skills.
-- Proven skills in **Web** Development, **Android** application development, **Cloud Technology**.
+- Proven skills in **Blockchain** Technology,**Web** Development, **Android** application development, **Cloud Technology**.
 - I believe that I am a versatile learner and can get going with any sort of work.
 
-**Skills:** Kotlin | Java | Android | Web Development 
+**Skills:** Blockchain | Kotlin | Java | Android | Web Development 
 
 - 💼 I am a good Problem Solver and with gfg Institute Rank 1 and Global Rank 512 among 3 Lakh gfg coders and have done 1000+ DSA Problem submissions on various platforms.
 
-- ✍️ I am currently working on Kotlin Android Development and Cloud Technology.
+- ✍️ I am currently working on Ethereum Blockchain projects, Kotlin Android Development and Cloud Technology.
 
 - 🏛️ I have a average SGPA of 9.64 currently in 3rd Year of Bachelors in Information Technology.
 
