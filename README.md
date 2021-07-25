@@ -15,14 +15,14 @@
 
 - 🏛️ I have a average SGPA of 9.64 currently in 3rd Year of Bachelors in Information Technology.
 
- <a data-toggle="tab" href = "https://www.linkedin.com/in/roshan-raut-299835180/"><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> 
+ <a href = "https://www.linkedin.com/in/roshan-raut-299835180/"><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> 
  
- <a data-toggle="tab" href = "https://www.linkedin.com/in/roshan-raut-299835180/"><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
+ <a href = "https://www.linkedin.com/in/roshan-raut-299835180/"><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
  
- <a data-toggle="tab" href="github.com/Roshan13046">
+ <a href="github.com/Roshan13046">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan13046&theme=light&hide_langs_below=1" />
 </a>
-<a data-toggle="tab" href="github.com/Roshan13046">
+<a href="github.com/Roshan13046">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Roshan13046&show_icons=true&theme=light&line_height=27" alt="roshan's github stats"/>
 </a>
 
