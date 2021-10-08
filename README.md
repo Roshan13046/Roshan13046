@@ -13,7 +13,7 @@
 
 - ✍️ I am currently working on Ethereum Blockchain projects, Kotlin Android Development and Cloud Technology.
 
-- 🏛️ I have a average SGPA of 9.64 currently in 3rd Year of Bachelors in Information Technology.
+- 🏛️ I have a average SGPA of 9.61 currently in final year of Bachelors in Information Technology.
 
  <a href = "https://www.linkedin.com/in/roshan-raut-299835180/"><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> 
  
